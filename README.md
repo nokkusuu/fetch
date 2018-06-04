@@ -1,4 +1,4 @@
-# fetch 0.81a
+# bmxfetch 0.81a
 simple https file fetcher written in blitzmax. 
 
 ### dependencies
