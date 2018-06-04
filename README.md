@@ -2,7 +2,7 @@
 simple https file fetcher written in blitzmax. 
 
 ### dependencies
-###### note: these dependencies only apply if you're *compiling* the software. you don't really need any of these if you're just running the software.
+###### note: these dependencies only apply if you're *compiling* the software. you don't really need any of these if you're just running the software (except for the pem file, that must be included with the executable).
 this software heavily relies on three of brucey's modules, `BaH.libcurl`, `BaH.mbedtls`, and `BaH.libssl2`. those can be obtained [here](https://github.com/maxmods/bah.mod).
 it also seems to require some modules preinstalled by blitzmax ng. support for vanilla blitzmax has not been verified.
 
